@@ -1,2 +1,4 @@
 # apirest-demo
-Un pequeño servicio para obtener la tarifa asociada a un producto en una determinada fecha.
+Servicio desarrollado en Java junto a String HATEOAS.
+
+Documentación y tests disponibles en Postman.
