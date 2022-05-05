@@ -1,5 +1,5 @@
 # apirest-demo
-Servicio desarrollado en Java junto a String HATEOAS.
+Servicio desarrollado en Java junto a Spring HATEOAS.
 
 Para compilar el proyecto es necesario ejecutar el siguiente comando de maven: 
 ```mvn clean install```
